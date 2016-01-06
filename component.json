@@ -1,0 +1,13 @@
+{
+    "name": "es6-react-mixins",
+    "description": "Augments ES6 classes with ES6 or traditional React mixins",
+    "repos": "https://github.com/angus-c/es6-react-mixins.git",
+    "main": "lib/mixin.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "babel-runtime": "^5.5.8",
+        "react": "^0.13.2"
+    },
+    "version": "0.1.8"
+}
