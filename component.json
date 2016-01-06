@@ -6,8 +6,8 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "babel-runtime": "^5.5.8",
-        "react": "^0.13.2"
+        "babel-runtime": "^5.8.25",
+        "react": "^0.13.3"
     },
-    "version": "0.1.8"
+    "version": "0.2.0"
 }
